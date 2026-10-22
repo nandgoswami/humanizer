@@ -206,4 +206,4 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 MIT
 
-If Humanizer helps you, a star helps other people find it.
+It's so useful mostly for your resume 
